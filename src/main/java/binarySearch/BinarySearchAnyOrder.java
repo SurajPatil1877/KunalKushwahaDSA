@@ -5,7 +5,7 @@ public class BinarySearchAnyOrder {
         int[] arrD = {18, 16, 14, 9, 5, 3, 2};
         int[] arrA = {2, 3, 5, 9, 14, 16, 18};
         int target = 14;
-        System.out.println("Index of target is : " + orderAgnosticBinarySearch(arrA, target));
+        System.out.println("Index of target is : " + orderAgnosticBinarySearch(arrD, target));
     }
 
 
