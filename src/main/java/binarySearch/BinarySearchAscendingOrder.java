@@ -2,8 +2,8 @@ package binarySearch;
 
 public class BinarySearchAscendingOrder {
     public static void main(String[] args) {
-        int[] arr = {2, 3, 5, 9, 14, 16, 18};
-        int target = 14;
+        int[] arr = {5, 7, 7, 8, 8, 10};
+        int target = 8;
         System.out.println("Index of target is : " + binarySearch(arr, target));
     }
 
