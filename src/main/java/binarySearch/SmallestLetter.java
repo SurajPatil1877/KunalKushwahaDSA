@@ -6,8 +6,6 @@ public class SmallestLetter {
         char[] arr = {'c', 'f', 'j'};
         char target = 'c';
         System.out.println(nextGreatestLetter(arr,target));
-
-        System.out.println(1%2);
     }
 
     static char nextGreatestLetter(char[] arr, char target) {

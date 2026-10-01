@@ -1,0 +1,7 @@
+Q1. Binary Search AscendingOrder
+Q2. Binary Search Descending Order
+Q3. Binary Search Agnostic Order
+Q4. Ceiling of a Number ->   //find the element in an array which is greater or = target
+Q5. First and Last Position
+Q6. Infinite Array -> no use of length
+Q7. Smallest Letter
